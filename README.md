@@ -1,6 +1,6 @@
 # Bienvenidos al TP7 de la materia PNT2
 
-### El TP trata sobre el uso de Vue CLI con Router y Formulario, también la creación de un cliente http usando Axios con sintaxis then catch y async await. Se usó [mockAPI](mockapi.io) para almacenar los datos
+### El TP trata sobre el uso de Vue CLI con Router y Formulario, también la creación de un cliente http usando Axios con sintaxis then catch y async await. Se usó [mockAPI](https://mockapi.io/) para almacenar los datos
 
 ---
 
